@@ -1,3 +1,9 @@
+/**
+ *  Java 1. Homework 5
+ * 
+ * @author Dunaev
+ * @version 16.11.2021
+ */
 class Homework5 {
     public static void main (String[] args) {
         Employee[] emplArray = new Employee[5];
